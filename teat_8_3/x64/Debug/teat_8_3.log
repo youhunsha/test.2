@@ -1,0 +1,3 @@
+﻿  teat.c
+E:\code\teat_8_3\teat_8_3\teat.c(122,23): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  teat_8_3.vcxproj -> E:\code\teat_8_3\x64\Debug\teat_8_3.exe
